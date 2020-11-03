@@ -6593,7 +6593,127 @@
 		"price": 1000,
 		"category": "Animal",
 		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "blacktea",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "VBE_BlackTea"
+	},
+	{
+		"abr": "cannibalcoffee",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_CannibalCoffee"
+	},
+	{
+		"abr": "dalgonacoffee",
+		"price": 23,
+		"category": "Drugs",
+		"defname": "VBE_DalgonaCoffee"
+	},
+	{
+		"abr": "earlgreytea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_EarlGreyTea"
+	},
+	{
+		"abr": "espressomachine",
+		"price": 201,
+		"category": "Production",
+		"defname": "VBE_EspressoMachineBuilding"
+	},
+	{
+		"abr": "espressoromano",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_LemonCoffee"
+	},
+	{
+		"abr": "greentea",
+		"price": 23,
+		"category": "Drugs",
+		"defname": "VBE_GreenTea"
+	},
+	{
+		"abr": "irishcoffee",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "VBE_IrishCoffee"
+	},
+	{
+		"abr": "kombuchatea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_Kombucha"
+	},
+	{
+		"abr": "lattecoffee",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_LatteCoffee"
+	},
+	{
+		"abr": "lemontea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_LemonTea"
+	},
+	{
+		"abr": "lemons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawLemon"
+	},
+	{
+		"abr": "masalachai",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_MasalaChai"
+	},
+	{
+		"abr": "mintcoffee",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_MintCoffee"
+	},
+	{
+		"abr": "mintleaves",
+		"price": 11,
+		"category": "Condiments",
+		"defname": "VBE_MintLeaves"
+	},
+	{
+		"abr": "minttea",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_MintTea"
+	},
+	{
+		"abr": "mochacoffee",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VBE_MochaCoffee"
+	},
+	{
+		"abr": "noonchai",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "VBE_NoonChai"
+	},
+	{
+		"abr": "pumpkinspicecoffee",
+		"price": 7,
+		"category": "Drugs",
+		"defname": "VBE_PumpkinCoffee"
+	},
+	{
+		"abr": "yuenyeung",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Yuenyeung"
 	}
 	],
-	"total": 1099
+	"total": 1119
 }
