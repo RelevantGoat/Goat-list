@@ -6899,7 +6899,115 @@
 		"price": 1000,
 		"category": "Animal",
 		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "africanwilddog",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_AfricanWildDog"
+	},
+	{
+		"abr": "blackrhinoceros",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "AEXP_BlackRhino"
+	},
+	{
+		"abr": "black-footedferret",
+		"price": 292,
+		"category": "Animal",
+		"defname": "AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "black-footedferretmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "bonobo",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_Bonobo"
+	},
+	{
+		"abr": "giantpanda",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "AEXP_Panda"
+	},
+	{
+		"abr": "giantpangolin",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_Pangolin"
+	},
+	{
+		"abr": "giantpangolinmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Pangolin"
+	},
+	{
+		"abr": "moa",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AEXP_Moa"
+	},
+	{
+		"abr": "moaegg(fert.)",
+		"price": 32,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggMoaFertilized"
+	},
+	{
+		"abr": "quagga",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_Quagga"
+	},
+	{
+		"abr": "rockhopperpenguin",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_RockhopperPenguin"
+	},
+	{
+		"abr": "rockhopperpenguinegg(fert.)",
+		"price": 25,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggRockhopperPenguinFertilized"
+	},
+	{
+		"abr": "tasmaniandevil",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "tasmaniandevilmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "thylacine",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AEXP_Thylacine"
+	},
+	{
+		"abr": "thylacinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Thylacine"
 	}
 	],
-	"total": 1150
+	"total": 1168
 }
