@@ -4269,7 +4269,7 @@
 	{
 		"abr": "monument",
 		"price": 2100,
-		"category": "Art",
+		"category": "",
 		"defname": "VFE_Monument"
 	},
 	{
@@ -7007,7 +7007,49 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Thylacine"
+	},
+	{
+		"abr": "foodmakerchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFEMA_Mechanoids_KitchenBase"
+	},
+	{
+		"abr": "growerchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFEMA_Mechanoids_FarmerBase"
+	},
+	{
+		"abr": "trooperarmor",
+		"price": 1917,
+		"category": "Armor",
+		"defname": "VAE_Apparel_TrooperArmor"
+	},
+	{
+		"abr": "trooperhelmet",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrooperHelmet"
+	},
+	{
+		"abr": "gausslance",
+		"price": 3508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GaussLance"
+	},
+	{
+		"abr": "gaussmagnum",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GaussMagnum"
+	},
+	{
+		"abr": "gaussrifle",
+		"price": 1392,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GaussRifle"
 	}
 	],
-	"total": 1168
+	"total": 1175
 }
