@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -17,8 +17,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 750,
-		"karmatype": "Bad"
+		"price": 800,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -77,12 +77,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 4000,
 		"karmatype": "Doom"
 	},
 	{
@@ -97,17 +97,12 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 250,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -122,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -146,9 +141,19 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -187,12 +192,12 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 600,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1250,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,32 +242,37 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1000,
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 300,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -272,39 +282,34 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 400,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "hailstorm",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "earthquake",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cropsprout",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "drought",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "huntingparty",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 61
+	"total": 62
 }
