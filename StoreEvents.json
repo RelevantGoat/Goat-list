@@ -281,21 +281,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "drunkmuffalos",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "caravanraidquest",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "wantedquest",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "hailstorm",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -321,5 +306,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 61
 }
