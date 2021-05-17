@@ -141,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good"
@@ -311,5 +306,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 61
 }
