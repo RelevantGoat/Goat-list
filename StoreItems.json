@@ -5711,7 +5711,133 @@
 		"price": 1000,
 		"category": "Animal",
 		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "addictol",
+		"price": 70,
+		"category": "Drugs",
+		"defname": "MP_Addictol"
+	},
+	{
+		"abr": "aniracetam",
+		"price": 80,
+		"category": "Drugs",
+		"defname": "Aniracetam"
+	},
+	{
+		"abr": "antitox",
+		"price": 80,
+		"category": "Drugs",
+		"defname": "AntiTox"
+	},
+	{
+		"abr": "clozapine",
+		"price": 90,
+		"category": "Drugs",
+		"defname": "Clozapine"
+	},
+	{
+		"abr": "crimsonbulb",
+		"price": 33,
+		"category": "Plant matter",
+		"defname": "CrimsonBulb"
+	},
+	{
+		"abr": "cyanide",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "Cyanide"
+	},
+	{
+		"abr": "heroin",
+		"price": 310,
+		"category": "Drugs",
+		"defname": "Heroin"
+	},
+	{
+		"abr": "hydra",
+		"price": 110,
+		"category": "Drugs",
+		"defname": "Hydra"
+	},
+	{
+		"abr": "hypnotol",
+		"price": 170,
+		"category": "Drugs",
+		"defname": "AddictiveHypnotol"
+	},
+	{
+		"abr": "joy",
+		"price": 80,
+		"category": "Drugs",
+		"defname": "Joy"
+	},
+	{
+		"abr": "morphine",
+		"price": 80,
+		"category": "Drugs",
+		"defname": "Morphine"
+	},
+	{
+		"abr": "opium",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "PoppyLatex"
+	},
+	{
+		"abr": "penicillin",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "Penicillin"
+	},
+	{
+		"abr": "peyote",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "Peyote"
+	},
+	{
+		"abr": "rosepetal",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "RosePetal"
+	},
+	{
+		"abr": "rosetea",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "RoseTea"
+	},
+	{
+		"abr": "smellingsalts",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "SSalts"
+	},
+	{
+		"abr": "thornweedneedle",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "ThornWeedNeedle"
+	},
+	{
+		"abr": "thornweedserum",
+		"price": 80,
+		"category": "Drugs",
+		"defname": "ThornWeedExtract"
+	},
+	{
+		"abr": "tyrox",
+		"price": 170,
+		"category": "Drugs",
+		"defname": "Tyrox"
+	},
+	{
+		"abr": "upper",
+		"price": 120,
+		"category": "Drugs",
+		"defname": "Upper"
 	}
 	],
-	"total": 952
+	"total": 973
 }
